@@ -6,7 +6,7 @@ source_conn_info = {
     "dbname": "staging-new",
     "user": "REDACTED",
     "password": "REDACTED",
-    "host": "campaign-app.postgres.database.azure.com",
+    "host": "****",
     "port": "****"
 }
 
@@ -17,7 +17,7 @@ dest_conn_info = {
     "user": "REDACTED",
     "password": "REDACTED",
 
-    "host": "main-processing.postgres.database.azure.com",
+    "host": "****",
     "port": "****"
 }
 
